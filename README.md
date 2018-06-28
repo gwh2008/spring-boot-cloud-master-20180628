@@ -1,5 +1,5 @@
 
-# https://github.com/gaowenhui/spring-boot-cloud
+# https://github.com/gaowenhui/spring-boot-cloud-master-20180628
 
 # 基于 Spring Cloud 的微服务架构
 
